@@ -20,7 +20,7 @@
     },
     {
       "local": {
-        "id": "4ee0634d-a250-4af4-9652-5a2709f73b7c",
+        "id": "3c85140e-a27a-4095-87f8-78edd2ea1028",
         "canvas": {},
         "ctx": {}
       },
@@ -228,7 +228,8 @@
     "scale": 0.2,
     "includeLogo": false,
     "isProduction": false,
-    "version": "1.2.8"
+    "version": "1.2.8",
+    "freePlan": false
   },
   "version": "1.2.8"
 }
